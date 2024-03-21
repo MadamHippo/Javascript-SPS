@@ -1,0 +1,13 @@
+function sumDouble(a, b){
+ 
+  let doubleSum;
+  
+  if (a==b){
+    doubleSum = (a+b)*2
+  } else {
+  
+  doubleSum = a+b;
+  }
+    
+ return doubleSum; 
+}
